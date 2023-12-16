@@ -1,0 +1,1 @@
+# mkdocs-material-UIU_Journal
